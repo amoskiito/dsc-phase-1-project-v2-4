@@ -1,4 +1,4 @@
-# Phase 1 Project Description
+# MICROSOFT NEW STUDIO PROJECT
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
