@@ -138,9 +138,3 @@ I also tried to sort the average rating in order to find the top genres being wa
 ## IMPORTANT LINKS
  * [***Project Writeup***](https://docs.google.com/document/d/1Y65kGh4eFxepOvhfdQw5nHBBIo3k70yiZvkxaAGbov4/edit?usp=sharing)
 * [***Slides Presentation***](https://docs.google.com/presentation/d/1a4bqChzx-moamAddQ7WESBpWPExyao9pAgaFYCYT7d8/edit?usp=sharing)
-
-GitHub repository
-
-1. Look at the [Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template)
-2. Fork the [Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4)
-3. Create a new repository from scratch by going to [github.com/new](https://github.com/new)
